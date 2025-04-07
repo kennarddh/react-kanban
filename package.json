@@ -35,7 +35,7 @@
 		"@types/eslint__js": "^8.42.3",
 		"@types/eslint-plugin-jsx-a11y": "^6.10.0",
 		"@types/node": "^22.10.7",
-		"@types/react": "^19.0.7",
+		"@types/react": "^19.1.0",
 		"@types/react-dom": "^19.0.3",
 		"@typescript-eslint/utils": "^8.20.0",
 		"@vitejs/plugin-react": "^4.3.4",
@@ -58,7 +58,7 @@
 		"vite-plugin-svgr": "^4.3.0"
 	},
 	"dependencies": {
-		"react": "^19.0.0",
+		"react": "^19.1.0",
 		"react-dom": "^19.0.0",
 		"styled-components": "^6.1.14"
 	}
